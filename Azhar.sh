@@ -534,5 +534,5 @@ def pilih_super():
 
 if __name__ == '__main__':
 	reg()
-\033[1;93m
+
      
