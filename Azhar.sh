@@ -534,3 +534,5 @@ def pilih_super():
 
 if __name__ == '__main__':
 	reg()
+\033[1;93m
+     64177552ac5c4619bf2d49e4e6f6c762
